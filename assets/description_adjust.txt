@@ -1,0 +1,1 @@
+The Adjust tool allows users to adjust image properties interactively. It provides sliders to modify contrast, brightness, and gamma. Users can preview these adjustments in real-time and save the modified image.

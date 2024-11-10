@@ -1,0 +1,1 @@
+The PixelFaces tool allows users to pixelate faces within images. It provides an interactive interface where users can adjust the pixelation level using a scale widget. The class leverages Haar cascades for face detection, a robust technique in computer vision for identifying objects in images. 
