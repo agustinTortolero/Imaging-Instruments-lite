@@ -1,5 +1,0 @@
-This tool allows you to add noise to an image. You can choose between 'Salt and Pepper' or 'Gaussian' noise types. Adjust the noise density using the slider and click 'Run' to apply the noise.
-Salt and Pepper Noise:
-This noise adds random black and white pixels to the image, resembling salt and pepper. It simulates data corruption by replacing some pixels with extreme values, creating a speckled effect. It is useful for testing image processing algorithms' resilience to severe pixel corruption.
-Gaussian Noise:
-Gaussian noise introduces random variations to pixel intensities based on a bell-shaped Gaussian distribution. This mimics natural graininess often seen in low-light conditions or sensor imperfections, adding subtle, smooth disturbances to the image.
