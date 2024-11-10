@@ -1,0 +1,7 @@
+Histogram equalization is a technique used in image processing to enhance the contrast of an image. The primary objective of this method is to improve the visibility of features and details in an image by redistributing the intensity values. It does this by equalizing the histogram of pixel intensity values, which spreads out the most frequent intensity values and thus improves contrast.
+
+The process begins by computing the cumulative distribution function (CDF) of the image's pixel intensity histogram. This function represents the probability of each intensity level occurring in the image. By normalizing the CDF, it transforms the pixel intensities to a uniform distribution, making the image's contrast more uniform across all levels.
+
+Histogram equalization is particularly useful in images with poor contrast, often caused by lighting conditions or inherent limitations of the imaging process. It is widely used in fields such as medical imaging, satellite imagery, and photography to enhance image quality and make details more discernible.
+
+However, histogram equalization may lead to artifacts or unnatural results in certain images, especially those with uniformly distributed intensity values. In such cases, alternative techniques like adaptive histogram equalization may be applied to refine the results and address these limitations.
