@@ -1,3 +1,0 @@
-/home/agustin/Imaging-Toolbox-lite/cpp/build/CMakeFiles/cpu_filtering.dir
-/home/agustin/Imaging-Toolbox-lite/cpp/build/CMakeFiles/edit_cache.dir
-/home/agustin/Imaging-Toolbox-lite/cpp/build/CMakeFiles/rebuild_cache.dir
