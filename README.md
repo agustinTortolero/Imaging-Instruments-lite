@@ -1,4 +1,4 @@
-# Imaging-Toolbox-lite
+# Imaging-Instruments-lite
 Image Processing Application for Windows
 Description
 The provided code implements an MVC (Model-View-Controller) architecture for an image processing application using the Tkinter library for the GUI, OpenCV for image processing, and Matplotlib for displaying histograms. The application allows users to load images, apply Sobel edge detection, and perform histogram equalization on color images using the HSI (Hue, Saturation, Intensity) color space.
